@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">PizzaApplication</string>
+    <string name="marka_adi">Pizza Beef Cheese</string>
+    <string name="kalori">355 kkal</string>
+    <string name="agirlik">800 gr</string>
+    <string name="sure">20 min</string>
+    <string name="energy">Energy</string>
+    <string name="weight">Weight</string>
+    <string name="cumle">Meat lover, get ready to meet your match! Loaded with beef sausages, ground beef.</string>
+    <string name="gecikme">Delivery</string>
+    <string name="ucret">$ 5.98</string>
+
+
+
+
+</resources>
